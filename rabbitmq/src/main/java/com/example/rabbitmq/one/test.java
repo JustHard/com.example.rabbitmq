@@ -14,5 +14,10 @@ public class test {
         System.out.println("git4");
         System.out.println("git4-master");
         System.out.println("git4-hot-fix");
+        System.out.println("git4-hot-fix");
+        System.out.println("git4-hot-fix");
+        System.out.println("git4-hot-fix");
+        System.out.println("git4-hot-fix");
+        System.out.println("git4-hot-fix");
     }
 }
