@@ -19,4 +19,6 @@ public class test {
         System.out.println("git4-hot-fix");
         System.out.println("git4-hot-fix");
          System.out.println("pull");
-}
+         System.out.println("push");
+         System.out.println("push");
+}}
